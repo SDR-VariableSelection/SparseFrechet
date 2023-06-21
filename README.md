@@ -8,4 +8,8 @@ To solve the nonconvex optimization problem, we propose a novel local double app
 ## file: _functions.py
 This file contains all instrumental functions that perform LLA and LDA algorithms. 
 
+## file: main.py
 We consider three examples: multivariate responses, distributed data, and unit-sphere data and two covariance matrices: an identity matrix $\Sigma_1 = I_p$ and a Toeplitz matrix $\Sigma_2 = (0.5^{|i-j|})$. 
+
+## file: plots.py
+We use boxplots and line plots to compare six methods. 
