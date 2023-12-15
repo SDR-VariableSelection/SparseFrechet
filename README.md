@@ -13,3 +13,14 @@ We consider three examples: multivariate responses, distributed data, and unit-s
 
 ## file: plots.py
 We use boxplots and line plots to compare six methods. 
+
+## Citation
+
+```
+@inproceedings{weng2023sparse,
+  title={Sparse Fr{\'e}chet sufficient dimension reduction via nonconvex optimization},
+  author={Weng, Jiaying and Ke, Chenlu and Wang, Pei},
+  booktitle={Conference on Parsimony and Learning (Proceedings Track)},
+  year={2023}
+}
+```
