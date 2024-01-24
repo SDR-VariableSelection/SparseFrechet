@@ -17,10 +17,12 @@ We use boxplots and line plots to compare six methods.
 ## Citation
 
 ```
-@inproceedings{weng2023sparse,
+@inproceedings{weng2024sparse,
   title={Sparse Fr{\'e}chet sufficient dimension reduction via nonconvex optimization},
   author={Weng, Jiaying and Ke, Chenlu and Wang, Pei},
-  booktitle={Conference on Parsimony and Learning (Proceedings Track)},
-  year={2023}
+  booktitle={Conference on Parsimony and Learning},
+  pages={39--53},
+  year={2024},
+  organization={PMLR}
 }
 ```
